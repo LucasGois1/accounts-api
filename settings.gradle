@@ -1,0 +1,5 @@
+rootProject.name = 'accounts-api'
+include 'core'
+include 'application'
+include 'infra'
+
